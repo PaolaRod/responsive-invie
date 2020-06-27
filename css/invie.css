@@ -184,7 +184,7 @@ input:focus, textarea:focus {
 .contenedor-guitarra-b {
     margin-left: 350px;
     position: relative;
-    bottom: 100px;
+    bottom: 50px;
 }
 
 .header {
