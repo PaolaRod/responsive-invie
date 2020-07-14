@@ -423,6 +423,9 @@ input:focus, textarea:focus {
     .sexo label {
         display: block;
     }
+    .fomulario label {
+        font-size: 20px;
+    }
     .intereses label {
         display: block;
         font-size: 20px;
@@ -430,12 +433,11 @@ input:focus, textarea:focus {
     .col1 {
         margin: 0;
     }
-
     .col2 {
         margin-top: 15px;
     }
     input[type="text"] {
-        margin-bottom: 20px;
+        margin-bottom: 30px;
     }
     input[type="text"],
     input[type="email"] {
