@@ -14,5 +14,4 @@ https://paolarod.github.io/responsive-invie/
 
 ## Previsualización 📖
 Una muestra de como se ve el sitio web. 
-![](https://github.com/PaolaRod/responsive-invie/blob/main/images/desing-responsive.png)
-
+![](https://github.com/PaolaRod/responsive-invie/blob/master/images/desing-responsive.png)
