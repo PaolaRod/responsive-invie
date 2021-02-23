@@ -13,5 +13,6 @@ https://paolarod.github.io/responsive-invie/
 * [Css compresor](https://csscompressor.com/) 
 
 ## Previsualización 📖
-Una muestra de como se ve el sitio web. 
+Una muestra de como se ve el sitio web.
+ 
 ![](https://github.com/PaolaRod/responsive-invie/blob/master/images/desing-responsive.png)
